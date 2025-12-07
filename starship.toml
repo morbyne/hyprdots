@@ -1,0 +1,20 @@
+add_newline = false
+
+[character]
+success_symbol = "[❯](bold green)"
+error_symbol = "[❯](bold red)"
+
+[directory]
+truncation_length = 5
+truncate_to_repo = false
+style = "bold cyan"
+
+[git_branch]
+format = "on [$symbol$branch]($style) "
+style = "bold green"
+
+[git_status]
+format = '([\[$all_status$ahead_behind\]]($style) )'
+
+[package]
+disabled = true

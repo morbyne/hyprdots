@@ -1,0 +1,83 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: CaskaydiaCove Nerd Font Mono;
+    font-size: 14px;
+    min-height: 0;
+}
+
+#waybar {
+	background: rgba(43, 51, 57, 0.5);
+}
+
+#workspaces {
+	background-color: rgba(52, 63, 68, 0.5);
+	margin: 5px 0px 5px 10px;
+	padding: 0px;
+	border-radius: 5px;
+}
+
+#workspaces button {
+	padding: 5px 10px;
+	color: #9DA9A0;
+	background: transparent;
+	font-family: CaskaydiaCove Nerd Font Mono;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#workspaces button.active {
+	color: #A7C080;
+}
+
+#workspaces button.urgent {
+	color: #E67E80;
+}
+
+#workspaces button:hover {
+	background: rgba(76, 86, 106, 0.4);
+	border-radius: 5px;
+}
+
+#custom-date, #clock, #battery, #pulseaudio, #network, #language, #backlight {
+	background-color: rgba(52, 63, 68, 0.5);
+	padding: 5px 10px;
+	margin: 5px 0px;
+	color: #A7C080;
+}
+
+
+#custom-power {
+	border-radius: 5px;
+	margin-right: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	padding: 5px 10px;
+}
+
+#clock {
+    border-radius: 0px 5px 5px 0px;
+    margin-right: 10px;
+}
+
+#network {
+	border-radius: 5px 0px 0px 5px;
+}
+
+#custom-player {
+	background-color: rgba(52, 63, 68, 0.5);
+	padding: 5px 15px;
+	margin: 5px;
+	border-radius: 5px;
+	color: #A7C080;
+	font-size: 14px;
+}
+
+#custom-player.Playing {
+	color: #A7C080;
+}
+
+#custom-player.Paused {
+	color: #9DA9A0;
+}

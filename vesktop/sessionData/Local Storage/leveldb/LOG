@@ -1,0 +1,48 @@
+2025/12/07-14:16:12.641 48c4 Reusing MANIFEST /home/noah/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/12/07-14:16:12.649 48c4 Recovering log #19
+2025/12/07-14:16:12.649 48c4 Reusing old log /home/noah/.config/vesktop/sessionData/Local Storage/leveldb/000019.log 
+2025/12/07-14:21:26.171 48c4 Level-0 table #23: started
+2025/12/07-14:21:26.173 48c4 Level-0 table #23: 227485 bytes OK
+2025/12/07-14:21:26.174 48c4 Delete type=0 #19
+2025/12/07-14:22:20.699 48c4 Level-0 table #25: started
+2025/12/07-14:22:20.701 48c4 Level-0 table #25: 90419 bytes OK
+2025/12/07-14:22:20.702 48c4 Delete type=0 #22
+2025/12/07-15:51:14.133 48c4 Level-0 table #27: started
+2025/12/07-15:51:14.135 48c4 Level-0 table #27: 23364 bytes OK
+2025/12/07-15:51:14.136 48c4 Delete type=0 #24
+2025/12/07-15:51:14.136 48c4 Compacting 4@0 + 1@1 files
+2025/12/07-15:51:14.139 48c4 Generated table #28@0: 26 keys, 225679 bytes
+2025/12/07-15:51:14.139 48c4 Compacted 4@0 + 1@1 files => 225679 bytes
+2025/12/07-15:51:14.140 48c4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/07-15:51:14.140 48c4 Delete type=2 #17
+2025/12/07-15:51:14.140 48c4 Delete type=2 #20
+2025/12/07-15:51:14.140 48c4 Delete type=2 #27
+2025/12/07-15:51:14.140 48c4 Delete type=2 #25
+2025/12/07-15:51:14.140 48c4 Delete type=2 #23
+2025/12/07-16:08:46.175 48c4 Level-0 table #30: started
+2025/12/07-16:08:46.177 48c4 Level-0 table #30: 102357 bytes OK
+2025/12/07-16:08:46.178 48c4 Delete type=0 #26
+2025/12/07-16:20:59.484 48c4 Level-0 table #32: started
+2025/12/07-16:20:59.485 48c4 Level-0 table #32: 21595 bytes OK
+2025/12/07-16:20:59.486 48c4 Delete type=0 #29
+2025/12/07-16:27:58.952 48c4 Level-0 table #34: started
+2025/12/07-16:27:58.960 48c4 Level-0 table #34: 107998 bytes OK
+2025/12/07-16:27:58.967 48c4 Delete type=0 #31
+2025/12/07-16:40:01.918 48c4 Level-0 table #36: started
+2025/12/07-16:40:01.919 48c4 Level-0 table #36: 24573 bytes OK
+2025/12/07-16:40:01.920 48c4 Delete type=0 #33
+2025/12/07-16:40:01.920 48c4 Compacting 4@0 + 1@1 files
+2025/12/07-16:40:01.923 48c4 Generated table #37@0: 34 keys, 230939 bytes
+2025/12/07-16:40:01.923 48c4 Compacted 4@0 + 1@1 files => 230939 bytes
+2025/12/07-16:40:01.924 48c4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/07-16:40:01.924 48c4 Delete type=2 #32
+2025/12/07-16:40:01.924 48c4 Delete type=2 #30
+2025/12/07-16:40:01.924 48c4 Delete type=2 #28
+2025/12/07-16:40:01.924 48c4 Delete type=2 #36
+2025/12/07-16:40:01.924 48c4 Delete type=2 #34
+2025/12/07-16:41:50.523 48c4 Level-0 table #39: started
+2025/12/07-16:41:50.525 48c4 Level-0 table #39: 94450 bytes OK
+2025/12/07-16:41:50.526 48c4 Delete type=0 #35
+2025/12/07-16:43:22.770 48c4 Level-0 table #41: started
+2025/12/07-16:43:22.772 48c4 Level-0 table #41: 100572 bytes OK
+2025/12/07-16:43:22.773 48c4 Delete type=0 #38

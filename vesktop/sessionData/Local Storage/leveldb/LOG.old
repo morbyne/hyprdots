@@ -1,0 +1,6 @@
+2025/12/07-02:45:38.344 3c5ab Reusing MANIFEST /home/noah/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/12/07-02:45:38.348 3c5ab Recovering log #15
+2025/12/07-02:45:38.348 3c5ab Reusing old log /home/noah/.config/vesktop/sessionData/Local Storage/leveldb/000015.log 
+2025/12/07-02:46:38.349 3c572 Level-0 table #20: started
+2025/12/07-02:46:38.350 3c572 Level-0 table #20: 99485 bytes OK
+2025/12/07-02:46:38.351 3c572 Delete type=0 #15
